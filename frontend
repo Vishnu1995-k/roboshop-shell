@@ -8,4 +8,5 @@ unzip /tmp/frontend.zip vim
 /etc/nginx/default.d/roboshop.conf
 
 systemctl enable nginx
+
 systemctl restart nginx
