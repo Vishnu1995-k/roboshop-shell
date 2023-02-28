@@ -9,4 +9,4 @@ unzip  -o /tmp/frontend.zip
 /etc/nginx/default.d/roboshop.conf
 
 systemctl enable nginx
-systemctl restart
+systemctl restart ngix
